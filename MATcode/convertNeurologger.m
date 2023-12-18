@@ -1,0 +1,28 @@
+function neuralData = convertNeurologger(fileToConvert)
+% This script takes a single file of logger data and extracts it and converts it to neural data
+% inputs: 
+%   file to convert (i.e. 'NEUR0272.DT2')
+% outputs:
+%   neuralData - mat file
+
+    % initilazation
+    global recfilePath;
+    ext = 'DT2';
+    numberOfChannels = 32;
+    voltageResolution = 0.2e-6;
+    numberOfADCBits = 16;
+    fSample = 32e3;
+   
+    % read data
+    myFile = fullfile(recfilePath, fileToConvert);
+    fid = fopen(myFile);
+    data = fread(fid, 'uint16'); % each data point of neural data is a 16 bit word
+    fclose(fid);
+    if ext ~= fileToConvert(end-2:end)
+        print(['The file type is not DT2, but rather', fileToConvert(end-2:end)])
+    end 
+    
+    % prapare data
+    dataMatrix = reshape(data', numberOfChannels, []); % data are now in form of channels x samples
+    neuralData = voltageResolution*(dataMatrix -  2^(numberOfADCBits - 1)); % conversion of data to neural data
+end
