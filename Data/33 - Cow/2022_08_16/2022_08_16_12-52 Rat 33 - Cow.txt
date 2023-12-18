@@ -1,0 +1,562 @@
+Trial:1
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:True
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:15
+TrialBeginRealTime:0
+AudioStartRealTime:723
+HeadEnterCenterRealTime:747
+StimulusStartRealTime:760
+RobotEndMovingForwardRealTime:1835
+CenterRewardRealTime:1946
+GoCueSoundRealTime:2066
+RatDecisionRealTime:2445
+SideRewardSoundRealTime:2469
+RightRewardRealTime:2571
+RobotStartMovingBackwardRealTime:3591
+TotalManualReward:0
+Trial:2
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:736
+HeadEnterCenterRealTime:757
+StimulusStartRealTime:776
+RobotEndMovingForwardRealTime:1835
+CenterRewardRealTime:1953
+GoCueSoundRealTime:2070
+RatDecisionRealTime:2723
+SideRewardSoundRealTime:2746
+LeftRewardRealTime:2849
+RobotStartMovingBackwardRealTime:3869
+TotalManualReward:0
+Trial:3
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:30
+TrialBeginRealTime:0
+AudioStartRealTime:735
+HeadEnterCenterRealTime:759
+StimulusStartRealTime:777
+RobotEndMovingForwardRealTime:1843
+CenterRewardRealTime:1962
+GoCueSoundRealTime:2081
+RatDecisionRealTime:2695
+SideRewardSoundRealTime:2718
+RightRewardRealTime:2821
+RobotStartMovingBackwardRealTime:3839
+TotalManualReward:0
+Trial:4
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:727
+HeadEnterCenterRealTime:750
+StimulusStartRealTime:765
+RobotEndMovingForwardRealTime:1828
+CenterRewardRealTime:1944
+GoCueSoundRealTime:2063
+RatDecisionRealTime:2676
+RobotStartMovingBackwardRealTime:3504
+TotalManualReward:0
+Trial:5
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:731
+HeadEnterCenterRealTime:755
+StimulusStartRealTime:772
+RobotEndMovingForwardRealTime:1839
+CenterRewardRealTime:1956
+GoCueSoundRealTime:2074
+RatDecisionRealTime:2632
+SideRewardSoundRealTime:2655
+RightRewardRealTime:2757
+RobotStartMovingBackwardRealTime:3775
+TotalManualReward:0
+Trial:6
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:745
+HeadEnterCenterRealTime:769
+StimulusStartRealTime:789
+RobotEndMovingForwardRealTime:1848
+CenterRewardRealTime:1966
+GoCueSoundRealTime:2086
+RatDecisionRealTime:2554
+SideRewardSoundRealTime:2576
+LeftRewardRealTime:2680
+RobotStartMovingBackwardRealTime:3698
+TotalManualReward:0
+Trial:7
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:738
+HeadEnterCenterRealTime:762
+StimulusStartRealTime:779
+RobotEndMovingForwardRealTime:1841
+CenterRewardRealTime:1959
+GoCueSoundRealTime:2078
+RatDecisionRealTime:2677
+RobotStartMovingBackwardRealTime:3516
+TotalManualReward:0
+Trial:8
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:33 - Cow
+student Name:Oren
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:True
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:0
+TrialBeginRealTime:0
+AudioStartRealTime:708
+HeadEnterCenterRealTime:732
+StimulusStartRealTime:745
+RobotEndMovingForwardRealTime:1813
+CenterRewardRealTime:1930
+GoCueSoundRealTime:2047
+RatDecisionRealTime:2719
+RobotStartMovingBackwardRealTime:3546
+TotalManualReward:0

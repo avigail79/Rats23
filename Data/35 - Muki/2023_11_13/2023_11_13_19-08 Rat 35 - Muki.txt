@@ -1,0 +1,67 @@
+Trial:1
+Application Version Number:1.0.7132.40212
+Protocol Name:HD-Training 2 only all
+Rat Name:35 - Muki
+student Name:Avigail
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:200
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.025 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.25 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:1
+AudioStartRealTime:715
+HeadEnterCenterRealTime:1702
+StimulusStartRealTime:1724
+HeadStabilityBreakRealTime:2028
+RobotEndMovingForwardRealTime:2785
+RobotStartMovingBackwardRealTime:3604
+TotalManualReward:0

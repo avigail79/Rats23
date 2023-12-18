@@ -1,0 +1,3026 @@
+Trial:1
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:736
+HeadEnterCenterRealTime:2672
+StimulusStartRealTime:2690
+HeadStabilityBreakRealTime:3057
+RobotEndMovingForwardRealTime:3753
+RobotStartMovingBackwardRealTime:4566
+TotalManualReward:0
+Trial:2
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:741
+HeadEnterCenterRealTime:764
+StimulusStartRealTime:779
+RobotEndMovingForwardRealTime:1853
+CenterRewardRealTime:1972
+GoCueSoundRealTime:2091
+RatDecisionRealTime:3013
+RobotStartMovingBackwardRealTime:3837
+TotalManualReward:0
+Trial:3
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:30
+TrialBeginRealTime:0
+AudioStartRealTime:733
+HeadEnterCenterRealTime:755
+StimulusStartRealTime:776
+RobotEndMovingForwardRealTime:1842
+CenterRewardRealTime:1963
+GoCueSoundRealTime:2082
+RatDecisionRealTime:2853
+SideRewardSoundRealTime:2876
+RightRewardRealTime:2978
+RobotStartMovingBackwardRealTime:3999
+TotalManualReward:0
+Trial:4
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:730
+HeadEnterCenterRealTime:753
+StimulusStartRealTime:772
+RobotEndMovingForwardRealTime:1841
+CenterRewardRealTime:1960
+GoCueSoundRealTime:2078
+RatDecisionRealTime:2813
+SideRewardSoundRealTime:2836
+LeftRewardRealTime:2935
+RobotStartMovingBackwardRealTime:3956
+TotalManualReward:0
+Trial:5
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:732
+HeadEnterCenterRealTime:754
+StimulusStartRealTime:769
+HeadStabilityBreakRealTime:773
+RobotEndMovingForwardRealTime:1833
+RobotStartMovingBackwardRealTime:2650
+TotalManualReward:0
+Trial:6
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:732
+HeadEnterCenterRealTime:755
+StimulusStartRealTime:769
+RobotEndMovingForwardRealTime:1841
+CenterRewardRealTime:1957
+GoCueSoundRealTime:2077
+RatDecisionRealTime:2879
+RobotStartMovingBackwardRealTime:3703
+TotalManualReward:0
+Trial:7
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:15
+TrialBeginRealTime:0
+AudioStartRealTime:732
+HeadEnterCenterRealTime:752
+StimulusStartRealTime:773
+RobotEndMovingForwardRealTime:1839
+CenterRewardRealTime:1956
+GoCueSoundRealTime:2073
+RatDecisionRealTime:2830
+SideRewardSoundRealTime:2853
+RightRewardRealTime:2956
+RobotStartMovingBackwardRealTime:3978
+TotalManualReward:0
+Trial:8
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:738
+HeadEnterCenterRealTime:1032
+StimulusStartRealTime:1047
+RobotEndMovingForwardRealTime:2113
+CenterRewardRealTime:2231
+GoCueSoundRealTime:2350
+RatDecisionRealTime:3132
+SideRewardSoundRealTime:3154
+LeftRewardRealTime:3254
+RobotStartMovingBackwardRealTime:4272
+TotalManualReward:0
+Trial:9
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:733
+HeadEnterCenterRealTime:1889
+StimulusStartRealTime:1907
+RobotEndMovingForwardRealTime:2973
+CenterRewardRealTime:3091
+GoCueSoundRealTime:3208
+RatDecisionRealTime:4182
+SideRewardSoundRealTime:4205
+LeftRewardRealTime:4308
+RobotStartMovingBackwardRealTime:5327
+TotalManualReward:0
+Trial:10
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:727
+HeadEnterCenterRealTime:1842
+StimulusStartRealTime:1860
+RobotEndMovingForwardRealTime:2929
+CenterRewardRealTime:3049
+GoCueSoundRealTime:3167
+RatDecisionRealTime:3757
+SideRewardSoundRealTime:3780
+RightRewardRealTime:3882
+RobotStartMovingBackwardRealTime:4908
+TotalManualReward:0
+Trial:11
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:728
+HeadEnterCenterRealTime:1294
+StimulusStartRealTime:1312
+HeadStabilityBreakRealTime:1448
+RobotEndMovingForwardRealTime:2382
+RobotStartMovingBackwardRealTime:3199
+TotalManualReward:0
+Trial:12
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:742
+HeadEnterCenterRealTime:6728
+StimulusStartRealTime:6746
+HeadStabilityBreakRealTime:6953
+RobotEndMovingForwardRealTime:7809
+RobotStartMovingBackwardRealTime:8624
+TotalManualReward:0
+Trial:13
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:728
+HeadEnterCenterRealTime:9624
+StimulusStartRealTime:9643
+HeadStabilityBreakRealTime:9770
+RobotEndMovingForwardRealTime:10712
+RobotStartMovingBackwardRealTime:11525
+TotalManualReward:0
+Trial:14
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:734
+HeadEnterCenterRealTime:1260
+StimulusStartRealTime:1280
+RobotEndMovingForwardRealTime:2344
+CenterRewardRealTime:2463
+GoCueSoundRealTime:2583
+RatDecisionRealTime:3331
+SideRewardSoundRealTime:3355
+RightRewardRealTime:3457
+RobotStartMovingBackwardRealTime:4474
+TotalManualReward:0
+Trial:15
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:734
+HeadEnterCenterRealTime:757
+StimulusStartRealTime:773
+HeadStabilityBreakRealTime:1083
+RobotEndMovingForwardRealTime:1843
+RobotStartMovingBackwardRealTime:2657
+TotalManualReward:0
+Trial:16
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:30
+TrialBeginRealTime:0
+AudioStartRealTime:735
+HeadEnterCenterRealTime:758
+StimulusStartRealTime:776
+RobotEndMovingForwardRealTime:1850
+CenterRewardRealTime:1969
+GoCueSoundRealTime:2086
+RatDecisionRealTime:2941
+SideRewardSoundRealTime:2965
+RightRewardRealTime:3066
+RobotStartMovingBackwardRealTime:4085
+TotalManualReward:0
+Trial:17
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:721
+HeadEnterCenterRealTime:744
+StimulusStartRealTime:758
+RobotEndMovingForwardRealTime:1830
+CenterRewardRealTime:1948
+GoCueSoundRealTime:2067
+RatDecisionRealTime:2832
+RobotStartMovingBackwardRealTime:3656
+TotalManualReward:0
+Trial:18
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:15
+TrialBeginRealTime:0
+AudioStartRealTime:730
+HeadEnterCenterRealTime:754
+StimulusStartRealTime:772
+RobotEndMovingForwardRealTime:1834
+CenterRewardRealTime:1952
+GoCueSoundRealTime:2070
+RatDecisionRealTime:2875
+SideRewardSoundRealTime:2898
+RightRewardRealTime:3003
+RobotStartMovingBackwardRealTime:4022
+TotalManualReward:0
+Trial:19
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:726
+HeadEnterCenterRealTime:748
+StimulusStartRealTime:759
+HeadStabilityBreakRealTime:770
+RobotEndMovingForwardRealTime:1827
+RobotStartMovingBackwardRealTime:2643
+TotalManualReward:0
+Trial:20
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:731
+HeadEnterCenterRealTime:754
+StimulusStartRealTime:776
+RobotEndMovingForwardRealTime:1844
+CenterRewardRealTime:1960
+GoCueSoundRealTime:2081
+RatDecisionRealTime:2915
+RobotStartMovingBackwardRealTime:3741
+TotalManualReward:0
+Trial:21
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:736
+HeadEnterCenterRealTime:760
+StimulusStartRealTime:780
+RobotEndMovingForwardRealTime:1840
+CenterRewardRealTime:1960
+GoCueSoundRealTime:2078
+RatDecisionRealTime:2885
+RobotStartMovingBackwardRealTime:3711
+TotalManualReward:0
+Trial:22
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:726
+HeadEnterCenterRealTime:943
+StimulusStartRealTime:960
+HeadStabilityBreakRealTime:1018
+RobotEndMovingForwardRealTime:2026
+RobotStartMovingBackwardRealTime:2840
+TotalManualReward:0
+Trial:23
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:735
+HeadEnterCenterRealTime:759
+StimulusStartRealTime:773
+RobotEndMovingForwardRealTime:1848
+CenterRewardRealTime:1968
+GoCueSoundRealTime:2090
+RatDecisionRealTime:2967
+SideRewardSoundRealTime:2990
+LeftRewardRealTime:3091
+RobotStartMovingBackwardRealTime:4109
+TotalManualReward:0
+Trial:24
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:738
+HeadEnterCenterRealTime:762
+StimulusStartRealTime:778
+HeadStabilityBreakRealTime:1231
+RobotEndMovingForwardRealTime:1848
+RobotStartMovingBackwardRealTime:2664
+TotalManualReward:0
+Trial:25
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:723
+HeadEnterCenterRealTime:747
+StimulusStartRealTime:757
+RobotEndMovingForwardRealTime:1832
+CenterRewardRealTime:1951
+GoCueSoundRealTime:2070
+RatDecisionRealTime:2930
+SideRewardSoundRealTime:2953
+RightRewardRealTime:3054
+RobotStartMovingBackwardRealTime:4072
+TotalManualReward:0
+Trial:26
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-7.5
+TrialBeginRealTime:0
+AudioStartRealTime:706
+HeadEnterCenterRealTime:731
+StimulusStartRealTime:747
+RobotEndMovingForwardRealTime:1813
+CenterRewardRealTime:1932
+GoCueSoundRealTime:2052
+RatDecisionRealTime:2743
+RobotStartMovingBackwardRealTime:3576
+TotalManualReward:0
+Trial:27
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:722
+HeadEnterCenterRealTime:1056
+StimulusStartRealTime:1075
+HeadStabilityBreakRealTime:1081
+RobotEndMovingForwardRealTime:2139
+RobotStartMovingBackwardRealTime:2956
+TotalManualReward:0
+Trial:28
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:30
+TrialBeginRealTime:0
+AudioStartRealTime:732
+HeadEnterCenterRealTime:753
+StimulusStartRealTime:767
+RobotEndMovingForwardRealTime:1837
+CenterRewardRealTime:1956
+RatDecisionRealTime:2060
+GoCueSoundRealTime:2083
+RobotStartMovingBackwardRealTime:2899
+TotalManualReward:0
+Trial:29
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-15
+TrialBeginRealTime:0
+AudioStartRealTime:728
+HeadEnterCenterRealTime:749
+StimulusStartRealTime:764
+RobotEndMovingForwardRealTime:1838
+CenterRewardRealTime:1957
+GoCueSoundRealTime:2074
+RatDecisionRealTime:2122
+RobotStartMovingBackwardRealTime:2949
+TotalManualReward:0
+Trial:30
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:734
+HeadEnterCenterRealTime:757
+StimulusStartRealTime:770
+HeadStabilityBreakRealTime:841
+RobotEndMovingForwardRealTime:1839
+RobotStartMovingBackwardRealTime:2655
+TotalManualReward:0
+Trial:31
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:723
+HeadEnterCenterRealTime:746
+StimulusStartRealTime:763
+RobotEndMovingForwardRealTime:1833
+CenterRewardRealTime:1952
+GoCueSoundRealTime:2072
+RatDecisionRealTime:3544
+SideRewardSoundRealTime:3568
+RightRewardRealTime:3671
+RobotStartMovingBackwardRealTime:4689
+TotalManualReward:0
+Trial:32
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:732
+HeadEnterCenterRealTime:756
+StimulusStartRealTime:772
+HeadStabilityBreakRealTime:1694
+RobotEndMovingForwardRealTime:1843
+RobotStartMovingBackwardRealTime:2659
+TotalManualReward:0
+Trial:33
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:7.5
+TrialBeginRealTime:0
+AudioStartRealTime:729
+HeadEnterCenterRealTime:752
+StimulusStartRealTime:769
+RobotEndMovingForwardRealTime:1837
+CenterRewardRealTime:1955
+GoCueSoundRealTime:2070
+RatDecisionRealTime:3340
+SideRewardSoundRealTime:3363
+RightRewardRealTime:3466
+RobotStartMovingBackwardRealTime:4488
+TotalManualReward:0
+Trial:34
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:15
+TrialBeginRealTime:0
+AudioStartRealTime:739
+HeadEnterCenterRealTime:762
+StimulusStartRealTime:781
+HeadStabilityBreakRealTime:1176
+RobotEndMovingForwardRealTime:1851
+RobotStartMovingBackwardRealTime:2668
+TotalManualReward:0
+Trial:35
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:734
+HeadEnterCenterRealTime:867
+StimulusStartRealTime:881
+HeadStabilityBreakRealTime:1101
+RobotEndMovingForwardRealTime:1946
+RobotStartMovingBackwardRealTime:2764
+TotalManualReward:0
+Trial:36
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:15
+TrialBeginRealTime:0
+AudioStartRealTime:728
+HeadEnterCenterRealTime:1104
+StimulusStartRealTime:1123
+RobotEndMovingForwardRealTime:2218
+CenterRewardRealTime:2337
+GoCueSoundRealTime:2454
+RatDecisionRealTime:3247
+SideRewardSoundRealTime:3270
+RightRewardRealTime:3372
+RobotStartMovingBackwardRealTime:4390
+TotalManualReward:0
+Trial:37
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:731
+HeadEnterCenterRealTime:754
+StimulusStartRealTime:774
+HeadStabilityBreakRealTime:1039
+RobotEndMovingForwardRealTime:1841
+RobotStartMovingBackwardRealTime:2660
+TotalManualReward:0
+Trial:38
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Left
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:True
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-60
+TrialBeginRealTime:0
+AudioStartRealTime:729
+HeadEnterCenterRealTime:752
+StimulusStartRealTime:767
+RobotEndMovingForwardRealTime:1837
+CenterRewardRealTime:1954
+GoCueSoundRealTime:2071
+RatDecisionRealTime:3533
+SideRewardSoundRealTime:3557
+LeftRewardRealTime:3659
+RobotStartMovingBackwardRealTime:4673
+TotalManualReward:0
+Trial:39
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:724
+HeadEnterCenterRealTime:2039
+StimulusStartRealTime:2060
+HeadStabilityBreakRealTime:2145
+RobotEndMovingForwardRealTime:3121
+RobotStartMovingBackwardRealTime:3938
+TotalManualReward:0
+Trial:40
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:726
+HeadEnterCenterRealTime:749
+StimulusStartRealTime:770
+HeadStabilityBreakRealTime:1814
+RobotEndMovingForwardRealTime:1833
+RobotStartMovingBackwardRealTime:2649
+TotalManualReward:0
+Trial:41
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:739
+HeadEnterCenterRealTime:900
+StimulusStartRealTime:915
+HeadStabilityBreakRealTime:1634
+RobotEndMovingForwardRealTime:1978
+RobotStartMovingBackwardRealTime:2795
+TotalManualReward:0
+Trial:42
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:738
+HeadEnterCenterRealTime:2023
+StimulusStartRealTime:2041
+HeadStabilityBreakRealTime:2838
+RobotEndMovingForwardRealTime:3114
+RobotStartMovingBackwardRealTime:3926
+TotalManualReward:0
+Trial:43
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:Right
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:False
+ErrorChoiceSoundOn:False
+EnableGoCueSound:True
+EnableCueSoundInBothSide:True
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:-30
+TrialBeginRealTime:0
+AudioStartRealTime:733
+HeadEnterCenterRealTime:2579
+StimulusStartRealTime:2596
+RobotEndMovingForwardRealTime:3668
+CenterRewardRealTime:3785
+GoCueSoundRealTime:3903
+RatDecisionRealTime:4752
+RobotStartMovingBackwardRealTime:5576
+TotalManualReward:0
+Trial:44
+Application Version Number:1.0.7132.40212
+Protocol Name:HeadingDiscrimination-Test
+Rat Name:31 - T
+student Name:Tamar
+Rat Decison:DurationTime
+StickNumber:1
+NumOfRepetitions:150
+AutoReward:False
+AutoFixation:False
+AutoStart:False
+CenterRewardSound:False
+FixationOnly:False
+SecondChoice:False
+RR Inverse:False
+EnableRightLeftMustEquals:False
+BreakFixationSoundOn:True
+ErrorChoiceSoundOn:False
+EnableGoCueSound:False
+EnableCueSoundInBothSide:False
+EnableCueSoundCorrectSide:False
+LedsTurnsOnPercentage:0.1
+LedsBrightness:1
+RedValue:0
+GreenValue:255
+BlueValue:0
+DIST:8 
+STIMULUS_DURATION:1 
+SIGMA:3 
+DELTA :0 
+DISC_PLANE_AZIMUTH:0 
+DISC_PLANE_ELEVATION:0 
+DISC_PLANE_TILT:0 
+PRE_TRIAL_TIME:0.2 
+TIMEOUT_TIME:20 
+START_DELAY:0 
+RESPONSE_TIME:3 
+POST_TRIAL_TIME:1.2 
+REWARD_BACKWARD_TIME:0.8 
+REWARD_CENTER_DELAY:0.1 
+REWARD_RIGHT_DELAY:0.1 
+REWARD_LEFT_DELAY:0.1 
+REWARD_CENTER_DURATION:0.1 
+REWARD_RIGHT_DURATION:0.2 
+REWARD_LEFT_DURATION:0.2 
+REWARD_CLUE_SOUND_DELAY:0.05 
+REWARD_RIGHT_DELAY_SC:0.1 
+REWARD_LEFT_DELAY_SC:0.1 
+REWARD_RIGHT_DURATION_SC:0.09 
+REWARD_LEFT_DURATION_SC:0.09 
+RR_HEADINGS:1 
+RR_PROBABILITY:0.5 
+ADAPTATION_ANGLE:0 
+COHERENCE_LEFT_STRIP:100 
+COHERENCE_RIGHT_STRIP:100 
+FLICKER_LEFT:1 
+FLICKER_RIGHT:1 
+STIMULUS_TYPE:2
+HEADING_DIRECTION:60
+TrialBeginRealTime:0
+AudioStartRealTime:730
+HeadEnterCenterRealTime:15435
+StimulusStartRealTime:15460
+HeadStabilityBreakRealTime:15464
+RobotEndMovingForwardRealTime:16541
+RobotStartMovingBackwardRealTime:17355
+TotalManualReward:0

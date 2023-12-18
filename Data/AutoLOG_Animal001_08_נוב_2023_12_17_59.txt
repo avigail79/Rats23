@@ -1,0 +1,15 @@
+12:18:06,44286165,RatLog-64 SN 39: Measured transmission delay is 1920 microseconds
+12:18:06,44286210,RatLog-64 SN 39: Synchronized transceiver and RatLog-64 SN 39 to the PC clock
+12:18:06,44286395,RatLog-64 SN 39: !!!  Warning": Low battery. V=3.631V
+12:18:06,44286433,RatLog-64 SN 39: System check: :BV=3.631 RSSI=-55.3 LFS=16051200 CD=0.000000 RR=0 FU=1307
+12:18:54,44334645,RatLog-64 SN 39: Sent string for remote log: MUKI
+12:18:59,44339932,RatLog-64 SN 39: Sent string for remote log: MUKI
+12:19:06,44346410,RatLog-64 SN 39: Logger's clock adjustment parameter was set to 15
+12:19:06,44346436,RatLog-64 SN 39: !!!  Warning": Low battery. V=3.593V
+12:19:06,44346457,RatLog-64 SN 39: System check: :BV=3.593 RSSI=-51.0 LFS=16049664 CD=-0.000093 RR=0 FU=1307
+12:20:06,44406432,RatLog-64 SN 39: Logger's clock adjustment parameter was set to 16
+12:20:06,44406459,RatLog-64 SN 39: !!!  Warning": Low battery. V=3.561V
+12:20:06,44406480,RatLog-64 SN 39: System check: :BV=3.561 RSSI=-52.6 LFS=16049152 CD=-0.000002 RR=0 FU=1307
+12:21:03,44463184,RatLog-64 SN 39: RatLog-64 SN 39: The logger was switched off
+12:21:05,44465650,RatLog-64 SN 39: RatLog-64 SN 39 is no longer active
+12:21:06,44466593,RatLog-64 SN 39: Set automatic system checking to No checking
