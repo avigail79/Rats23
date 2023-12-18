@@ -192,7 +192,6 @@ def logfile_process(logfiles, folder_path):
     return logfile
 
 
-
 ####  ####
 def merge_data(pinky_data, logfile, folder_path):
     MergeData = deepcopy(pinky_data)
