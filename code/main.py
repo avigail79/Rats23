@@ -31,7 +31,6 @@ def session_pipline(rat_folder_path, date):
     # Process the first logfile if the list is existed
     if logfiles:
         logfile = logfile_process(logfiles, folder_path)
-        # todo: add_general_time_from_log_to_pinky(logfile, pinky_data)
     if not pinky_data.empty and not logfile.empty:
         MergeData = merge_data(pinky_data, logfile, folder_path)
 
@@ -46,10 +45,10 @@ if __name__ == '__main__':
         if rat_folder.split()[2] not in chosen_rats:
             continue
         rat_folder_path = os.path.join(DATA_PATH, rat_folder)
-        # date_list = os.listdir(rat_folder_path)[:-2]
-        # date_list = ['2023_12_05']
-        # for date in date_list:
-        #     session_pipline(rat_folder_path, date)
+        date_list = os.listdir(rat_folder_path)[:-2]
+        date_list = ['2023_12_05']
+        for date in date_list:
+            session_pipline(rat_folder_path, date)
 
         # pooled data
         start_date = '2023_11_21'
