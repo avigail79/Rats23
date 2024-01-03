@@ -9,7 +9,6 @@ import numpy as np
 import os
 import copy
 from utils import is_date_within_range
-from math import sqrt
 from config import OPTIONS
 
 # Define the priorLambda function
